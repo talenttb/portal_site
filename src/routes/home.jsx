@@ -40,15 +40,16 @@ import React from 'react';
 
 // import Header from '../partials/Header';
 // import Footer from '../partials/Footer';
-import { Hero1, Hero2, Section3 } from '../components/Home';
+import { Hero1, Hero2, Section3, Blog1 } from '../components/Home';
 
 export default function Home() {
   return (
     <main className="flex-grow">
       {/*  Page sections */}
-      <Hero1 />
       <Hero2 />
+      <Hero1 />
       <Section3 />
+      <Blog1 />
       {/* <HeroHome />
           <FeaturesHome />
           <FeaturesBlocks />

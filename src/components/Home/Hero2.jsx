@@ -8,18 +8,18 @@ function Hero2(props) {
           <img
             className="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded"
             alt="hero"
-            src="https://dummyimage.com/720x600"
+            src="/images/DSCN9820.JPG"
           />
           <div className="text-center lg:w-2/3 w-full">
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
-              Microdosing synth tattooed vexillologist
+              留給後代更好的道路交通環境
             </h1>
             <p className="mb-8 leading-relaxed">
-              Meggings kinfolk echo park stumptown DIY, kale chips beard
-              jianbing tousled. Chambray dreamcatcher trust fund, kitsch vice
-              godard disrupt ramps hexagon mustache umami snackwave tilde
-              chillwave ugh. Pour-over meditation PBR&amp;B pickled ennui celiac
-              mlkshk freegan photo booth af fingerstache pitchfork.
+              (一) 塑造親山親水的藍綠生活環境
+            </p>
+            <p className="mb-8 leading-relaxed">(二) 以綠色交通串接各項機能</p>
+            <p className="mb-8 leading-relaxed">
+              (三) 強化在地產業活動與創新動能
             </p>
             <div className="flex justify-center">
               <button className="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg">
